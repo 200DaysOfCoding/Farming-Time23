@@ -2,7 +2,7 @@
 
 ## 🚀 Vision générale
 
-Bienvenue dans mon défi personnel de programmation sur 100 jours! Ce projet documente mon parcours d'apprentissage intensif en développement web et génie logiciel, structuré comme un programme d'étude progressif. En tant qu'étudiant en 3ème année de génie logiciel, je renforce mes compétences existantes tout en explorant de nouvelles technologies et méthodologies pour devenir un développeur plus complet.
+Bienvenue dans mon défi personnel de programmation sur 100 jours! Ce projet documente mon parcours d'apprentissage intensif en développement web, structuré comme un programme d'étude progressif. En tant qu'étudiant en 3ème année de génie logiciel, je renforce mes compétences existantes tout en explorant de nouvelles technologies et méthodologies pour devenir un développeur plus complet.
 
 ## 📋 Structure du défi
 
@@ -166,14 +166,7 @@ Bien que ce soit un défi personnel, les retours constructifs sont toujours appr
 - Suggestions d'améliorations techniques
 - Recommandations de ressources
 - Revues de code
-
-## 📬 Contact
-
-N'hésitez pas à me contacter pour échanger sur ce défi:
-- GitHub: [Votre_Username]
-- LinkedIn: [Votre_Profil]
-- Email: [Votre_Email]
-
+  
 ---
 
 *Ce projet s'inspire du mouvement #100DaysOfCode et s'adapte à mon parcours personnel d'étudiant en génie logiciel.*
